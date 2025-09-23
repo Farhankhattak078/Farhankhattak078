@@ -11,6 +11,5 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, SQL , Kotlin
+- **Languages:** Java, SQL , Kotlin,Python
 - **Tools & Platforms:** Power BI, Excel, Android Studio, Git  
-- Exploring Spring boot and data analysis with Pyhton

@@ -1,55 +1,70 @@
 # 👋 Hi, I'm Farhan Khattak
 
-🚀 Aspiring **Data Scientist | Machine Learning Enthusiast**
+🚀 Data Analyst | Machine Learning Practitioner
 
 ---
 
 ## 🧠 About Me
 
-* 📊 Passionate about **Data Analysis & Machine Learning**
-* 🧠 Love solving real-world problems using data
-* 🌱 Currently learning **Advanced ML & Model Optimization**
-* 🎯 Goal: Become a professional Data Scientist
+* 📊 Skilled in **Data Analysis, Visualization & Machine Learning**
+* 🔍 Focused on extracting **insights that drive decisions**
+* 🤖 Experienced in building **ML models for real-world problems**
+* 🎯 Goal: Solve impactful problems using data
 
 ---
 
 ## 🔥 Featured Projects
 
-### 📊 AtliQ Hotels Data Analysis
+### 📊 AtliQ Hotels Revenue Analysis
 
-* Performed full **EDA pipeline**
-* Extracted business insights to improve revenue
+* Conducted end-to-end **EDA on hotel data**
+* Identified key revenue patterns & business insights
+* Delivered actionable recommendations
 
 ---
 
 ### 🧠 Medical Recommendation System
 
-* Predicts disease based on symptoms
-* Provides recommendations (diet, precautions, etc.)
+* Built ML model to predict diseases from symptoms
+* Provided actionable outputs:
+
+  * Precautions
+  * Diet plans
+  * Medications
+
+---
+
+### 📈 AQI Data Analysis & Prediction
+
+* Analyzed air quality trends
+* Built regression models for prediction
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:**
-Python | Java
+Python
 
-**Data Science:**
-Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+**Data Analysis:**
+Pandas | NumPy | Matplotlib | Seaborn
 
 **Machine Learning:**
-Regression | Classification | Model Evaluation
+Scikit-learn | XGBoost | Model Optimization
 
 ---
 
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Farhankhattak078\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/farhankhattak890/
-* 📧 Email: farhanktk076@gmail.com
+* 💼 LinkedIn: (add link)
+* 📧 Email: (your email)
 
 ---
 
-⭐ *“Turning data into decisions”*
+⭐ *“Transforming raw data into meaningful insights”*

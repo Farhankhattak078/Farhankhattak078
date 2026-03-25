@@ -1,15 +1,55 @@
-### Hi there 👋 I'm Farhan
+# 👋 Hi, I'm Farhan Khattak
 
-🎯 **Data Analytics Aspirant**  
-📜 Certified in **Power BI**, **Python** , **Excel**, and **SQL**  
-📊 Passionate about transforming data into insights  
-📱 Also have knowledge of  Android Development  with Kotlin and Jetpack Compose
-🛠️ Exploring  **Data Structures**  
-📬 Reach me at Linkedin: @farhankhattak890
+🚀 Aspiring **Data Scientist | Machine Learning Enthusiast**
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-- **Languages:** Java, SQL , Kotlin,Python
-- **Tools & Platforms:** Power BI, Excel, Android Studio, Git  
+* 📊 Passionate about **Data Analysis & Machine Learning**
+* 🧠 Love solving real-world problems using data
+* 🌱 Currently learning **Advanced ML & Model Optimization**
+* 🎯 Goal: Become a professional Data Scientist
+
+---
+
+## 🔥 Featured Projects
+
+### 📊 AtliQ Hotels Data Analysis
+
+* Performed full **EDA pipeline**
+* Extracted business insights to improve revenue
+
+---
+
+### 🧠 Medical Recommendation System
+
+* Predicts disease based on symptoms
+* Provides recommendations (diet, precautions, etc.)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**
+Python | Java
+
+**Data Science:**
+Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+
+**Machine Learning:**
+Regression | Classification | Model Evaluation
+
+---
+
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/farhankhattak890/
+* 📧 Email: farhanktk076@gmail.com
+
+---
+
+⭐ *“Turning data into decisions”*

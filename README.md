@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farhan Khattak
 
-🚀 Data Analyst | Machine Learning Practitioner
+🚀 Data Analyst | Machine Learning Practitioner | Data Science Aspirant
 
 ---
 
@@ -62,8 +62,8 @@ Scikit-learn | XGBoost | Model Optimization
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: (add link)
-* 📧 Email: (your email)
+* 💼 LinkedIn: https://www.linkedin.com/in/farhankhattak890/
+* 📧 Email: farhanktk076@gmail.com
 
 ---
 

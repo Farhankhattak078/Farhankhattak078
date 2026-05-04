@@ -66,20 +66,6 @@ I’m a final-year Computer Science student (Expected 2026) with hands-on experi
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Farhankhattak078\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🎯 Current Focus
-
-* 📌 Improving ML model performance & generalization
-* 📌 Learning deployment (Streamlit / APIs)
-* 📌 Preparing for **ML Engineer & Data Scientist roles**
-
----
-
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/farhankhattak890/
